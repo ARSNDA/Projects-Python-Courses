@@ -1,0 +1,15 @@
+import pygame
+
+SCREEN_WIDTH = 800
+SCREEN_HEIGHT = 600
+
+SCREEN_FILL_COLOR = (32, 52,71)
+
+GAME_CAPTION = "Space Invaders"
+
+FIGHTER_STEP = 0.5
+
+ALIEN_STEP = 0.04
+
+ROCKET_STEP = 0.5
+
